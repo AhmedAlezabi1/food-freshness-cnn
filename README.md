@@ -21,7 +21,7 @@ This project covers the full journey: **market research → a CNN trained on my 
 About **1.3 billion tons of food** are wasted every year (FAO), partly because people and retailers can't reliably judge freshness: good fruit gets thrown away and spoiled fruit gets sold.
 I analysed the market, stakeholders and existing solutions, and designed the product with a **DAPS diagram** (Data → Analysis → Prediction → Solution).
 
-📄 [Business understanding report](docs/business_understanding.pdf) · [DAPS diagram](docs/daps_diagram.svg)
+[Business understanding report](docs/business_understanding.pdf) · [DAPS diagram](docs/daps_diagram.svg)
 
 ---
 
@@ -50,7 +50,7 @@ I first set baselines, then improved the model one change at a time so each step
 
 The remaining mistakes are mostly **spoiled fruit with very small damage**, **distracting backgrounds** (pink, bright white) and **shadows/lighting**. Next steps I identified: simplify to 2 classes (fresh vs. spoiled), collect more images with clear damage, and use gentler augmentation (less zoom, which can crop out the spoiled spot).
 
-📓 [Deep learning notebook](notebooks/1_deep_learning_food_freshness.ipynb)
+[Deep learning notebook](notebooks/1_deep_learning_food_freshness.ipynb)
 
 ---
 
@@ -64,7 +64,7 @@ The remaining mistakes are mostly **spoiled fruit with very small damage**, **di
 
 *Grad-CAM on a spoiled orange. Grad-CAM gave the clearer big-picture view of where the model looks; Integrated Gradients showed more pixel-level detail but was noisier and more sensitive to lighting and background. Both are compared in the notebook.*
 
-📓 [Responsible AI notebook](notebooks/2_responsible_ai_bias_and_xai.ipynb)
+[Responsible AI notebook](notebooks/2_responsible_ai_bias_and_xai.ipynb)
 
 ---
 
@@ -78,7 +78,7 @@ The remaining mistakes are mostly **spoiled fruit with very small damage**, **di
 |---|---|
 | ![Low-fidelity wireframe](assets/wireframe_low_fidelity.png) | ![Splash and login](assets/app_splash_and_login.png) |
 
-📄 [Human-centered AI report](docs/human_centered_ai.pdf) · 📓 [A/B test analysis](notebooks/3_ab_test_analysis.ipynb) · 🎬 [Demo video](docs/demo_video.mp4) · [Think-aloud transcripts](data/think_aloud/)
+[Human-centered AI report](docs/human_centered_ai.pdf) · [A/B test analysis](notebooks/3_ab_test_analysis.ipynb) · [Demo video](docs/demo_video.mp4) · [Think-aloud transcripts](data/think_aloud/)
 
 ---
 
