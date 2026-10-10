@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+data/Image_Dataset/
+cats_and_dogs/
+desktop.ini
+.DS_Store

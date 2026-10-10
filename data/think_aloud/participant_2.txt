@@ -1,0 +1,55 @@
+Interviewer: This app is called Scan Fresh. It checks if your fruits or vegetables are fresh. You can take a photo or upload one. The app uses AI to give you the result.
+
+P2: Okay
+
+Interviewer: I’ll ask you to do a few things. While you do them, please say what you see and what you’re thinking.
+
+P2: ok, I’ll try.
+
+Interviewer: First, open the app.
+
+P2: Ok I see a screen and the “Get Started” button.
+
+Interviewer: Now, log in to the app.
+
+P2: There’s Google, Facebook, and email. I’m not sure which to choose. Okay, I’ll try email. Done. It worked, but maybe it should say Log in with email more clearly.
+
+Interviewer: Okay, good to know. Was it clear overall?
+
+P2: A little, but not fully. I had to think.
+
+Interviewer: Now try to scan a fruit or vegetable.
+
+P2: I tapped Vegetables. Now I see Start Scanning and Upload from Gallery. I will try Start Scanning.
+
+P2: I took a picture of tomato's . Now there’s a circle on the screen. I think it’s scanning. Okay now I see the results it says 95% fresh okay
+
+Interviewer: Did you understand what the circle means?
+
+P2: I think it shows what the AI is looking at. But it was a little fast.
+
+Interviewer: Now go to the scan history and see past results.
+
+P2: I see a History button. I clicked it it. Okay, I can see past results that's good
+
+Interviewer: What did you like about the app?
+
+P2: I like the idea. It’s helpful. The screen is clean.
+
+Interviewer: Did you understand how to scan or upload?
+
+P2: Yes, 
+
+Interviewer: Was the login screen clear?
+
+P2: A little confusing. Maybe add short text under the buttons.
+
+Interviewer: Was anything else frustrating?
+
+P2: Just the fast scan  I didn’t really see what happened.
+
+Interviewer: Any ideas to make it better?
+
+P2: Maybe add a short guide before scanning. Also, explain the freshness levels more like what “Almost Fresh” means.
+
+Interviewer: okay, thank you P2!

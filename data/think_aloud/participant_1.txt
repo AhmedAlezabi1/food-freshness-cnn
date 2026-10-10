@@ -1,0 +1,53 @@
+Interviewer: This app is called Scan Fresh. It helps people check if their fruit or vegetables are fresh. You can take a photo or upload one. The app uses AI to give a result.
+
+P1: Okay, sounds good.
+
+Interviewer: I will ask you to do some small tasks. Please say what you see and what you think while using the app. Ready?
+
+P1: Yes.
+
+Interviewer: First, please open the app.
+
+P1: I see a welcome screen with food pictures. There is a “Get Started” button. I will tap it.
+
+Interviewer: Now, try to log in.
+
+P1: I see three buttons Google, Facebook, and email. I will use Google. 
+
+Interviewer: Was the login screen clear?
+
+P1: Yes, it was clear.
+
+Interviewer: Now try to scan a fruit or vegetable.
+
+P1: I see two big buttons. One says Fruits one says Vegetables. I will tap Fruits. Now I see Start Scanning and Upload from Gallery. I will upload a photo.
+
+P1: I chose a photo of an apple. I see a circle on the apple. I think the app is scanning it. Now it says Apple – Fresh. I see stars and a question Was this helpful?
+
+Interviewer: Did you understand how to upload a photo?
+
+P1: Yes, it was easy.
+
+Interviewer: Can you go to the scan history?
+
+P1: Yes. I see a button at the bottom. It shows the apple I scanned. I see the photo and the word Fresh. That’s good.
+
+Interviewer: Can you see your past results?
+
+P1: Yes, I see my scan history. It is clear.
+
+Interviewer: What did you like about the app?
+
+P1: It is simple. Everything is easy to find.
+
+Interviewer: Was anything confusing?
+
+P1: No, it was not confusing.
+
+Interviewer: Do you have any ideas to make it better?
+
+P1: Maybe show a short help message when someone uses it for the first time.
+
+Interviewer: That’s a good idea. Thank you so much for helping!
+
+P1: You're welcome

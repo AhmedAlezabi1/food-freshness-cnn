@@ -1,0 +1,53 @@
+Interviewer: The app is called Scan Fresh. It checks if fruits or vegetables are fresh using AI. You can take a picture or upload one, and it shows the result.
+
+Interviewer: I will ask you to do a few things. Please say what you see and how you feel while using the app. You can tell me if anything is easy or confusing.
+
+P3: Okay
+
+Interviewer: First, please open the app.
+
+P3: okay
+
+Interviewer: Now, log in to the app.
+
+P3: okay I will login.
+
+Interviewer: Was that screen easy to understand?
+
+P3: Yes, it was clear 
+
+Interviewer: Now try to scan something.
+
+P3: Okay, I see Start Scanning and Upload from Gallery. I’ll try uploading a photo.
+
+P3: I uploaded a photo of apples use photo It says apple Fresh. That's good.
+
+Interviewer: Did you understand what the app was doing?
+
+P3: Yes, but maybe you can add a short message like Scanning so people know what’s happening.
+
+Interviewer: Okay
+
+Interviewer: Now, check the scan history.
+
+P3: Okay. I see past scans 
+
+Interviewer: What did you like about the app?
+
+P3: It’s simple and fast. I like the design too.
+
+Interviewer: Did you understand how to take or upload a photo?
+
+P3: Yes, it was easy.
+
+Interviewer: Was anything confusing?
+
+P3: Not really it was clear.
+
+Interviewer: Any suggestions to improve the app?
+
+P3: I think it was good 
+
+Interviewer: Thanks 
+
+P3: You're welcome
